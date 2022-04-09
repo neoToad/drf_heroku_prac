@@ -1,7 +1,7 @@
 .idea
 .coverage*
 staticfiles
-.envs/*
+app/.envs/*
 
 # Environments
 .env
@@ -32,3 +32,4 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
+__pycache__
